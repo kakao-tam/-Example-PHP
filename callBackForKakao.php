@@ -25,7 +25,7 @@
 //프로필 조회
  $header = "Bearer ".$accessToken; // Bearer 다음에 공백 추가
  $data = array(
-    'propertyKeys' => 'kakao_account.email'
+    'data' => 'data'
 );
  $getProfileUrl = "https://kapi.kakao.com/v2/user/me";
  
