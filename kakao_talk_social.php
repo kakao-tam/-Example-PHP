@@ -1,8 +1,8 @@
 <?php
 session_start();
-$APP_ADMIN_KEY = "72462462f6fc9baad63f2de2ad3d865b";
-$REST_API_KEY = "4408b5bb51bdf4c89879e933556a21e8";
-$JAVASCRIPT_KEY = "2d68640b56d986af5c8a48505c7c8c71";
+$APP_ADMIN_KEY = "";
+$REST_API_KEY = "";
+$JAVASCRIPT_KEY = "";
 ?>
 <!doctype html>
 <html lang="en">
